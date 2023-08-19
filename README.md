@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Tiffany
+- 👀 I’m interested in cybersecurity and intellectual property laws
+- 🌱 I’m currently learning C language in self-taught
+- 🎓 Law degree
